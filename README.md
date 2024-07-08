@@ -1,6 +1,6 @@
 # Real-time Fungus Detection App using a Simple Neural Network from scratch
 
-This project involves creating a web application for real-time fungus detection using a simple neural network. The application is built with Streamlit, an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
+This is a part of my CSE 3200 course. Current project involves creating a web application for real-time fungus detection using a simple neural network. The application is built with Streamlit, an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
 
 ## Project Structure
 
@@ -11,7 +11,7 @@ This project involves creating a web application for real-time fungus detection 
 
 2. **Dataset:** 
     - The original dataset can be found in this link from [UCI](https://www.archive.ics.uci.edu/dataset/773/defungi).
-    - But the dataset used in this project is from in this [kaggle link](https://www.kaggle.com/datasets/anshtanwar/microscopic-fungi-images).
+    - But the dataset used in this project is from in [this kaggle link](https://www.kaggle.com/datasets/anshtanwar/microscopic-fungi-images).
     - The dataset is preprocessed by running ```preprocess.py```.
 
 3. **Training the Model:**
