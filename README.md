@@ -11,7 +11,7 @@ This is a part of my CSE 3200 course. Current project involves creating a web ap
 
 2. **Dataset:** 
     - The original dataset can be found in this link from [UCI](https://www.archive.ics.uci.edu/dataset/773/defungi).
-    - But the dataset used in this project is from in [this kaggle link](https://www.kaggle.com/datasets/anshtanwar/microscopic-fungi-images).
+    - But the dataset used in this project is from this [kaggle link](https://www.kaggle.com/datasets/anshtanwar/microscopic-fungi-images).
     - The dataset is preprocessed by running ```preprocess.py```.
 
 3. **Training the Model:**
