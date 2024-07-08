@@ -63,7 +63,7 @@ This is a part of my CSE 3200 course. Current project involves creating a web ap
 pip install -r requirements.txt
 ```
 
-- To run these apps, you must install Streamlit on your device. Once installed, navigate to the directory containing the ```app.py``` and run it using the following command:
+- To run the app, you must install Streamlit on your device. Once installed, run ```app.py``` using the following command:
 
 ```bash
 python -m streamlit run app.py
